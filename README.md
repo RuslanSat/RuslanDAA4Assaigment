@@ -1,5 +1,5 @@
 # Smart City Scheduling — Graph Algorithms Report
-#Author - "RUSLAN SATVALDIEV"
+# Author - "RUSLAN SATVALDIEV"
 
 ## Overview
 This project combines two major topics of the course within a unified practical scenario related to smart-city and smart-campus task scheduling:
@@ -138,5 +138,5 @@ DAA4/
 ---
 
 ## 7. Build & Run
-#How To Run
+# How To Run
 Just run the 'main' file
