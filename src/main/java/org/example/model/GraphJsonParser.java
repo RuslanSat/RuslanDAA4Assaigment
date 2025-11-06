@@ -10,7 +10,7 @@ import java.io.IOException;
  * Parser for JSON graph files in the specified task format.
  * Handles both edge-based and node-based weight models.
  *
- * @author Your Name
+ * @author Ruslan satvaldiev
  * @version 1.0
  */
 public class GraphJsonParser {
