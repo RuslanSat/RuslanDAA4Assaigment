@@ -1,15 +1,12 @@
-package src.main.java.org.example.model;
+package org.example.model;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 /**
  * Represents a graph model for city service task dependencies.
  * Supports directed and undirected graphs with edge-based weights.
  *
- * @author Your Name
+ * @author Ruslan Satvaldiev
  * @version 1.0
  */
 public class Graph {

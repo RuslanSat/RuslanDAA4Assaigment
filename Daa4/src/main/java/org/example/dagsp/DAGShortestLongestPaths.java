@@ -1,13 +1,9 @@
-package src.main.java.org.example.dagsp;
+package org.example.dagsp;
 
-import org.example.metrics.Metrics;
 import org.example.model.Graph;
 import org.example.topo.KahnTopologicalSort;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
+import org.example.metrics.Metrics;
+import java.util.*;
 
 public class DAGShortestLongestPaths {
     private final Graph graph;

@@ -1,18 +1,14 @@
-package src.main.java.org.example.topo;
+package org.example.topo;
 
-import org.example.metrics.Metrics;
 import org.example.model.Graph;
-
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
+import org.example.metrics.Metrics;
+import java.util.*;
 
 /**
  * Implements Kahn's algorithm for topological sorting of DAGs.
  * Time complexity: O(V + E)
  *
- * @author Your Name
+ * @author Ruslan Satvaldiev
  * @version 1.0
  */
 public class KahnTopologicalSort {

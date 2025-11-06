@@ -1,4 +1,4 @@
-package src.main.java.org.example.util;
+package org.example.util;
 
 import java.io.File;
 

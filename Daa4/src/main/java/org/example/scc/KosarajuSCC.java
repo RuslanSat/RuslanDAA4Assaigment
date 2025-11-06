@@ -1,19 +1,15 @@
-package src.main.java.org.example.scc;
+package org.example.scc;
 
-import org.example.metrics.Metrics;
 import org.example.model.Graph;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Stack;
+import org.example.metrics.Metrics;
+import java.util.*;
 
 /**
  * Implements Kosaraju's algorithm for finding strongly connected components.
  * Time complexity: O(V + E)
  * Space complexity: O(V)
  *
- * @author Your Name
+ * @author Ruslan Satvaldiev
  * @version 1.0
  */
 public class KosarajuSCC {

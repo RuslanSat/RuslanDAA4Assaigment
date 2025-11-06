@@ -1,12 +1,11 @@
-package src.main.java.org.example;
+package org.example;
 
-import org.example.dagsp.DAGShortestLongestPaths;
 import org.example.model.Graph;
 import org.example.model.GraphJsonParser;
 import org.example.scc.KosarajuSCC;
 import org.example.topo.CondensationGraph;
 import org.example.topo.KahnTopologicalSort;
-
+import org.example.dagsp.DAGShortestLongestPaths;
 import java.io.File;
 
 public class Main {

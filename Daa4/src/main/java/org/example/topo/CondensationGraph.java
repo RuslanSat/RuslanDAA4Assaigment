@@ -1,18 +1,14 @@
-package src.main.java.org.example.topo;
+package org.example.topo;
 
 import org.example.model.Graph;
 import org.example.scc.KosarajuSCC;
-
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 /**
  * Builds a condensation graph from strongly connected components.
  * Each SCC becomes a single node in the condensation DAG.
  *
- * @author Your Name
+ * @author Ruslan Satvaldiev
  * @version 1.0
  */
 public class CondensationGraph {
