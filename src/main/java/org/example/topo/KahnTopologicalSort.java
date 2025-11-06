@@ -12,7 +12,7 @@ import java.util.Queue;
  * Implements Kahn's algorithm for topological sorting of DAGs.
  * Time complexity: O(V + E)
  *
- * @author Ruslan ;)
+ * @author Your Name
  * @version 1.0
  */
 public class KahnTopologicalSort {

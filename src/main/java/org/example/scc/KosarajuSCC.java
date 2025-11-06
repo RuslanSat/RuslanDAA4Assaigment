@@ -13,7 +13,7 @@ import java.util.Stack;
  * Time complexity: O(V + E)
  * Space complexity: O(V)
  *
- * @author Ruslan Satvaldiev
+ * @author Your Name
  * @version 1.0
  */
 public class KosarajuSCC {

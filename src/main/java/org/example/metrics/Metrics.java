@@ -4,7 +4,7 @@ package src.main.java.org.example.metrics;
  * Collects performance metrics for graph algorithms.
  * Tracks execution time and operation counts for analysis.
  *
- * @author Ruslan Satvaldiev
+ * @author Marat Yerkanat
  * @version 1.0
  */
 public class Metrics {

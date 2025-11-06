@@ -12,7 +12,7 @@ import java.util.Set;
  * Builds a condensation graph from strongly connected components.
  * Each SCC becomes a single node in the condensation DAG.
  *
- * @author Ruslan
+ * @author Your Name
  * @version 1.0
  */
 public class CondensationGraph {

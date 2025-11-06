@@ -9,7 +9,7 @@ import java.util.Map;
  * Represents a graph model for city service task dependencies.
  * Supports directed and undirected graphs with edge-based weights.
  *
- * @author Ruslan Satvaldiev
+ * @author Your Name
  * @version 1.0
  */
 public class Graph {
